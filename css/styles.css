@@ -1,6 +1,3 @@
-body {
-  background-color: #efefef;
-}
 .navbar {
   border-top: 1px solid black;
   border-bottom: 1px solid black;
@@ -34,7 +31,8 @@ button.navbar-toggle {
 
 .menu-item {
   background-color: #efefef;
-  margin: 25px;
+  padding: 10px;
+  margin: 10px;
 }
 
 .menu-item p {
