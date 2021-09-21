@@ -3,6 +3,9 @@
   border-bottom: 1px solid black;
   background-color: #caebf2;
 }
+.navbar h1 {
+  font-size: 2.5em;
+}
 
 button.navbar-toggle {
   clear: both;
